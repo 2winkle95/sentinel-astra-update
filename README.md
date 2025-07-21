@@ -1,3 +1,7 @@
+## Note:
+
+This is a forked version of Synaptics' Astra update utility. This repo has changes needed to support the Sentinel SOM and EVK family, which is based on the Synaptics Astra series (SL1680).
+
 # Astra Update
 
 The Astra Update tool and library support communicating with Astra Machina devices over USB. The USB interface is
